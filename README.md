@@ -2,14 +2,6 @@
 Este é um projeto para teste técnico na empresa Usabit que cria um command para
 pesquisar cidades pelo ID no OpenWeather API e popular dados de temperatura
 
-### Observações importantes sobre o teste
-Alguns requisitos não foram devidamente atendidos devido à um imprevisto de entrega de projeto na empresa atual, sendo eles:
-- Crie uma tela customizada dentro do admin (usando `AdminSite`)
-- Testes da aplicação
-
-Apesar desse adendo, fico disponível para explicar como escreveria os códigos para atender 100% dos requisitos 
-e se necessário podemos fazer num live coding ou similar. 
-
 ***
 
 ## Pré-requisitos
